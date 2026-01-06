@@ -16,7 +16,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-Coming soon...
+Coming soon....
 
 ## Author
 Mohit Shaw
