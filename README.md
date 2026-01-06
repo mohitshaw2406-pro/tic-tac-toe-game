@@ -18,5 +18,9 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ## Live Demo
 🔗 https://mohitshaw2406-pro.github.io/tic-tac-toe-game/
 
+## Screenshot
+![Start Situation](start.png)
+![Winning Situationt](win.png)
+
 ## Author
 Mohit Shaw
